@@ -3,7 +3,7 @@
 📅 **Data publikacji:** [tu wpisz datę]  
 📂 **Kategoria:** Cyberbezpieczeństwo
 
-![Cyberbezpieczeństwo – ochrona danych osobowych](../assets/grafika1.png "Laptop z kłódką – symbol ochrony danych")
+![Cyberbezpieczeństwo – ochrona danych osobowych](../assets/art_cs1_img1.webp "Laptop z kłódką – symbol ochrony danych")
 
 ## O czym jest ten artykuł?
 
