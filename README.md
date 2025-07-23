@@ -1,29 +1,28 @@
-# 🛡️ Blog o Cyberbezpieczeństwie i AI
+# Cybersecurity & AI Blog Teasers
 
-Witaj! 👋 Prowadzę bloga edukacyjnego o tematyce **cyberbezpieczeństwa** oraz **sztucznej inteligencji**.  
-Na GitHubie znajdziesz teasery artykułów, checklisty, grafiki oraz dodatkowe materiały.
+This repository contains teaser versions of articles published on my personal blog about cybersecurity and artificial intelligence.
 
-🌐 **Czytaj pełne wpisy na blogu:**  
-👉 [https://twojabloga.webwave.dev](https://twojabloga.webwave.dev)
+Each folder or file includes:
+- A short preview of the full article
+- A link to the full blog post
+- Optional visuals (thumbnails or article images)
 
----
-
-## 📚 Dostępne artykuły
-
-### 🔐 Cyberbezpieczeństwo
-- [Podstawy cyberbezpieczeństwa: Jak zacząć chronić swoje dane?](./artykuly/podstawy-cyberbezpieczenstwa.md)
-
-### 🤖 Sztuczna inteligencja *(już wkrótce)*
+👉 Read the full blog (in Polish):  
+**https://plfp39.webwave.dev/**
 
 ---
 
-## 🧰 Zasoby dodatkowe
+## About the Blog
 
-- 🖼️ Grafiki do wpisów: `assets/`
-- 📜 Licencja: [LICENCJA.md](./LICENCJA.md)
+The blog is aimed at beginners and professionals interested in:
+- Protecting personal data and devices
+- AI trends and tools
+- Online privacy and digital hygiene
+
+New articles are published regularly.
 
 ---
 
-## 📩 Kontakt
-- LinkedIn: [TwójProfil](https://linkedin.com/in/twoj-profil)
-- Email: kontakt@example.com
+## License
+
+Content in this repository is released under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
