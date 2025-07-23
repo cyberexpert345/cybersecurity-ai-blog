@@ -10,7 +10,7 @@ Learn about:
 - Basic device protection
 
 📖 Read the full article (in Polish):  
-**[https://twojblog.webwave.dev/artykul1](https://plfp39.webwave.dev/jak-zaczac-chronic-swoje-dane-juz-dzis)**
+**https://plfp39.webwave.dev/jak-zaczac-chronic-swoje-dane-juz-dzis**
 
 ---
 
