@@ -9,8 +9,8 @@ Learn about:
 - Updating your software regularly
 - Basic device protection
 
-📖 Read the full article (in Polish):  
-**https://plfp39.webwave.dev/jak-zaczac-chronic-swoje-dane-juz-dzis**
+ Read the full article (in Polish):  
+ https://plfp39.webwave.dev/jak-zaczac-chronic-swoje-dane-juz-dzis**
 
 ---
 
