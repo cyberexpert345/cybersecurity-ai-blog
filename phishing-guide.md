@@ -1,4 +1,4 @@
-Article 2: What Is Phishing – And How to Spot It
+Article: What Is Phishing – And How to Spot It
 
 Phishing is one of the most common cyber threats – and anyone can fall victim to it. Fake emails, suspicious links, and urgent messages are all tricks used by cybercriminals to steal your data.
 
