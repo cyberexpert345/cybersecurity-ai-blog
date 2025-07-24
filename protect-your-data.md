@@ -1,4 +1,4 @@
-# Article 1: How to Start Protecting Your Data Today
+# Article: How to Start Protecting Your Data Today
 
 Cybersecurity is no longer reserved for IT professionals. If you use a smartphone or browse the internet, you're already a target. In this article, we briefly introduce 5 simple ways to start protecting your data right away – even without technical knowledge.
 
