@@ -9,7 +9,7 @@ Learn about:
 - The risks of AI: job automation, surveillance, bias
 - Tips for using AI tools consciously and ethically
 
-Read the full article (in Polish): https://plfp39.webwave.dev/czym-jest-sztuczna-inteligencja-i-dlaczego-ma-to-znaczenie
+Read the full article (in Polish): https://plfp39.webwave.dev/co-to-jest-sztuczna-inteligencja-%28ai%29-i-dlaczego-zmienia-swiat
 
 ---
 
