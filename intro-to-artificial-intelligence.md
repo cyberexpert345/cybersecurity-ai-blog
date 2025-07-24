@@ -1,4 +1,4 @@
-Article 2: What Is Artificial Intelligence – And Why It Matters
+Article: What Is Artificial Intelligence – And Why It Matters
 
 Artificial Intelligence (AI) is no longer just a sci-fi concept. It’s already reshaping how we live, work, and learn – often without us realizing it. In this article, we introduce the basics of AI in simple language and explain its real-world impact.
 
