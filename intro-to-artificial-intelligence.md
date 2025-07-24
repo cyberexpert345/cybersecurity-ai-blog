@@ -12,4 +12,6 @@ Learn about:
 🤖 Read the full article (in Polish):
 https://plfp39.webwave.dev/czym-jest-sztuczna-inteligencja-i-dlaczego-ma-to-znaczenie
 
-This is a teaser. The full content is available on the official blog.
+---
+
+_This is a teaser. The full content is available on the official blog._
