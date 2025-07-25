@@ -24,4 +24,4 @@ New articles are published regularly.
 ---
 
 ## License
-Content in this repository is released under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+Content in this repository is released under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/licenses/by-nc/4.0/deed/) license.
