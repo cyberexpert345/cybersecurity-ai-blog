@@ -11,4 +11,7 @@ Learn about:
 
 Read the full article (in Polish): https://plfp39.webwave.dev/co-to-jest-sztuczna-inteligencja-%28ai%29-i-dlaczego-zmienia-swiat
 
-This is a teaser. The full content is available on the official blog.
+---
+
+_This is a teaser. The full content is available on the official blog._
+
