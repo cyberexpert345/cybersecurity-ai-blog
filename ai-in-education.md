@@ -11,3 +11,7 @@ In this article, you’ll learn:
 
 Read the full article (in Polish):
 https://plfp39.webwave.dev/jak-ai-zmienia-edukacje
+
+---
+
+_This is a teaser. The full content is available on the official blog._
