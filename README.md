@@ -7,7 +7,7 @@ Each folder or file includes:
 - A link to the full blog post
 - Optional visuals (thumbnails or article images)
 
-Read the full blog (in Polish): https://plfp39.webwave.dev/
+Read the full blog (in Polish): https://cyberexpertit.pl/
 
 ---
 
