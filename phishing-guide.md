@@ -9,8 +9,7 @@ In this article, you’ll learn:
 - How to protect yourself with simple habits
 - Tips for training your awareness in the digital world
 
-Read the full article (in Polish):
-https://plfp39.webwave.dev/czym-jest-phishing-i-jak-go-rozpoznac
+Read the full article (in Polish): https://cyberexpertit.pl/czym-jest-phishing-i-jak-go-rozpoznac
 
 ---
 
