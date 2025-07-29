@@ -9,8 +9,7 @@ In this article, you’ll learn:
 - What benefits it brings to both students and teachers
 - What the future of AI-driven education might look like
 
-Read the full article (in Polish):
-https://plfp39.webwave.dev/jak-ai-zmienia-edukacje
+Read the full article (in Polish): https://cyberexpertit.pl/jak-ai-zmienia-edukacje-nowoczesna-nauka-w-erze-cyfrowej
 
 ---
 
