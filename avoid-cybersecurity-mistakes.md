@@ -9,7 +9,7 @@ In this article, you’ll learn:
 - The importance of backups and software updates
 - How to stay safe on social media and public Wi-Fi
 
-Read the full article (in Polish): https://cyberexpertit.pl/10-najczestszych-bledow-w-cyberbezpieczenstwie-jak-ich-unikac
+Read the full article (in Polish): https://cyberexpertit.pl/bledy-w-cyber-security
 
 ---
 
