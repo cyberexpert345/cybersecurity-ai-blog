@@ -10,6 +10,7 @@ Learn about:
 - Basic device protection
 
 Read the full article (in Polish): https://cyberexpertit.pl/jak-zaczac-chronic-dane-juz-dzis 
+
 ---
 
 _This is a teaser. The full content is available on the official blog._
