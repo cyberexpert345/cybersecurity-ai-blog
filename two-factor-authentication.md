@@ -1,4 +1,4 @@
-Article: Two-Factor Authentication (2FA) – A Simple Tool That Can Save Your Account
+Article: Two-Factor Authentication (2FA).
 
 Logging in with just a username and password is no longer enough. Two-Factor Authentication (2FA) adds an extra layer of security that drastically reduces the risk of account takeover.
 
