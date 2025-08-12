@@ -9,7 +9,8 @@ In this article, you’ll learn:
 - The most popular 2FA methods and their security levels
 - Where and how to enable 2FA for your important accounts
 
-Read the full article (in Polish):
-https://plfp39.webwave.dev/uwierzytelnianie-dwuskladnikowe-2fa
+Read the full article (in Polish): https://cyberexpertit.pl/uwierzytelnianie-2fa
 
-This is a teaser. The full content is available on the official blog.
+---
+
+_This is a teaser. The full content is available on the official blog._
