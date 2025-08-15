@@ -11,4 +11,6 @@ In this article, you’ll learn:
 
 Read the full article (in Polish): https://cyberexpertit.pl/ai-w-medycynie
 
-This is a teaser. The full content is available on the official blog.
+---
+
+_This is a teaser. The full content is available on the official blog._
