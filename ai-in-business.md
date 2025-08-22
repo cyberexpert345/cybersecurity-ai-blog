@@ -10,3 +10,7 @@ In this article, you’ll learn:
 - What the future holds for AI in business and finance
 
 Read the full article (in Polish): https://plfp39.webwave.dev/ai-w-biznesie-i-finansach-rewolucja-ktora-zmienia-rynek
+
+---
+
+_This is a teaser. The full content is available on the official blog._
