@@ -9,7 +9,7 @@ In this article, you’ll learn:
 - How e-commerce leverages AI for customer service and recommendations
 - What the future holds for AI in business and finance
 
-Read the full article (in Polish): https://plfp39.webwave.dev/ai-w-biznesie-i-finansach-rewolucja-ktora-zmienia-rynek
+Read the full article (in Polish): https://cyberexpertit.pl/ai-w-biznesie-i-finansach
 
 ---
 
