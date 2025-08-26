@@ -13,3 +13,7 @@ In this article, you’ll learn:
 - How to protect yourself from Evil Twin attacks
 
 Read the full article (in Polish): https://cyberexpertit.pl/jak-zabezpieczyc-siec-wi-fi
+
+---
+
+_This is a teaser. The full content is available on the official blog._
