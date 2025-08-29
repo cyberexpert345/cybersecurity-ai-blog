@@ -11,3 +11,7 @@ In this article, you’ll learn:
 - What the future of mobility with AI may look like
 
 Read the full article (in Polish): https://cyberexpertit.pl/ai-w-transporcie-i-logistyce
+
+---
+
+_This is a teaser. The full content is available on the official blog._
