@@ -13,3 +13,7 @@ In this article, you’ll learn:
 - Why responsible AI development is key to a greener future
 
 Read the full article (in Polish): https://cyberexpertit.pl/ai-a-ekologia
+
+---
+
+_This is a teaser. The full content is available on the official blog._
