@@ -11,3 +11,7 @@ In this article, you’ll learn:
 - How psychology makes people vulnerable to manipulation
 
 Read the full article (in Polish): https://cyberexpertit.pl/socjotechnika
+
+---
+
+_This is a teaser. The full content is available on the official blog._
