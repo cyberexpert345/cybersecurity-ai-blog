@@ -10,3 +10,7 @@ In this article, you’ll learn:
 - The future of AI as a partner in cybersecurity
 
 Read the full article (in Polish): https://cyberexpertit.pl/ai-w-cyber-security
+
+---
+
+_This is a teaser. The full content is available on the official blog._
