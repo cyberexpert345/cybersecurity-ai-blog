@@ -11,3 +11,7 @@ In this article, you’ll learn:
 - Step-by-step breakdown of how a ransomware attack unfolds
 
 Read the full article (in Polish): https://cyberexpertit.pl/ransomware
+
+---
+
+_This is a teaser. The full content is available on the official blog._
