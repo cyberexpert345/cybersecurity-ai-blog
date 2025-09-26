@@ -13,3 +13,7 @@ In this article, you’ll learn:
 - Why AI could be the key to feeding billions in the future
 
 Read the full article (in Polish): https://cyberexpertit.pl/ai-w-rolnictwie
+
+---
+
+_This is a teaser. The full content is available on the official blog._
